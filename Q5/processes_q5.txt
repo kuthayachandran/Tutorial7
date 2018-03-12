@@ -8,3 +8,4 @@ chrome, 1, 1
 gedit, 2, 4
 eclipse, 2, 2
 clang, 1, 3
+
